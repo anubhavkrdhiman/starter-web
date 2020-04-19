@@ -8,5 +8,5 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-##Integration
+## Integration
 We need to integrate latest Patch on production
