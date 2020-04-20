@@ -20,4 +20,5 @@ Write UAT Test cases
 
 ## Copyright 
 
+Please fork this repo
 2020 Git training
