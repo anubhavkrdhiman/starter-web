@@ -17,3 +17,7 @@ Post integration warranty period
 
 ## UAT
 Write UAT Test cases
+
+## Copyright 
+
+2020 Git training
